@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Student at Sorbonne University.
+A student at Sorbonne University.
